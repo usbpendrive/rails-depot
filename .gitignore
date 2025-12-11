@@ -38,3 +38,6 @@
 !/app/assets/builds/.keep
 
 .idea/
+package.json
+
+node_modules/
